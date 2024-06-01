@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Supports-Dragonflight-orange?style=flat&logo=battledotnet&logoColor=orange) 
-![](https://img.shields.io/badge/Supports-Wrath-blue?style=flat&logo=battledotnet&logoColor=blue)  
+![](https://img.shields.io/badge/Supports-Cataclysm-blue?style=flat&logo=battledotnet&logoColor=blue)  
   
 **GearFlyout** is a lightweight addon that adds gear flyout buttons to the character panel  
 
@@ -9,3 +9,6 @@
 
 
 ![](https://i.imgur.com/5mXwnwa.jpg)
+
+
+DOWNLOAD: https://legacy.curseforge.com/wow/addons/gearflyout
